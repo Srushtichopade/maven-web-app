@@ -8,7 +8,6 @@ This was an amazing hands-on journey covering **automation, containerization, or
 
 ---
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8300917b-27a4-4cd8-a66d-4bcf93651954" />
-
 ## 🔧 Project Setup  
 
 ### Tools Used  
